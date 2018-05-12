@@ -1,0 +1,25 @@
+_repo: Night-of-WarehousesNew-and-Selected-Poems-1998-2000_13080
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 13080-coverpage.jpg
+creator:
+  author:
+    agent_name: Oliver, Stephen
+    birthdate: 1950
+    gutenberg_agent_id: '4013'
+    url: http://www.gutenberg.org/2009/agents/4013
+description: ''
+gutenberg_issued: '2004-08-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13080'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PR'
+title: 'Night of Warehouses: New and Selected Poems 1998-2000'
+url: http://www.gutenberg.org/ebooks/13080
